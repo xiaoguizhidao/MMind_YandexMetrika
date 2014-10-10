@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <MMind_YandexMetrika>
+            <active>true</active>
+            <codePool>community</codePool>
+        </MMind_YandexMetrika>
+    </modules>
+</config>

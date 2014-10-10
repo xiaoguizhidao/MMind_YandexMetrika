@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layout version="1.0.0">
+    <default>
+        <reference name="before_body_end">
+            <block type="mmind_yandexmetrika/tracker" name="mmind_yandexmetrika_default"
+                   as="mmind_yandexmetrika_default">
+                <action method="setTemplate" ifconfig="mmind_yandexmetrika/general/enable">
+                    <template>mmind/yandexmetrika/default.phtml</template>
+                </action>
+            </block>
+        </reference>
+    </default>
+    <checkout_onepage_success>
+        <reference name="before_body_end">
+            <block type="mmind_yandexmetrika/tracker" name="mmind_yandexmetrika_checkout_success"
+                   before="mmind_yandexmetrika_default">
+                <action method="setTemplate" ifconfig="mmind_yandexmetrika/goals/enable_checkout_success">
+                    <template>mmind/yandexmetrika/checkout/success.phtml</template>
+                </action>
+            </block>
+        </reference>
+    </checkout_onepage_success>
+</layout>
