@@ -10,7 +10,7 @@
  * It is also available through the world-wide-web at this URL:
  * http://www.magemind.com/magento-license
  *
- * @category   model
+ * @category   helper
  * @package    MMind_YandexMetrika
  * @copyright  Copyright (c) 2014 MageMind (http://www.magemind.com)
  * @license    http://www.magemind.com/magento-license

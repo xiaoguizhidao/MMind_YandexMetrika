@@ -62,7 +62,6 @@ class MMind_YandexMetrika_Block_Tracker extends Mage_Core_Block_Template
 var yaParams = {$json};
 </script>
 EOF;
-
         return $options . $this->getYandexMetrikaCode();
     }
 }
