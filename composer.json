@@ -1,0 +1,16 @@
+{
+    "name": "mmind/yandexmetrika",
+    "type": "magento-module",
+    "license": "OSL-3.0",
+    "homepage": "https://github.com/magemindcom/MMind_YandexMetrika",
+    "description": "Magento Module for Yandex Metrika integration",
+    "authors": [
+        {
+            "name": "Mage Mind",
+            "email": "tech@magemind.com"
+        }
+    ],
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
