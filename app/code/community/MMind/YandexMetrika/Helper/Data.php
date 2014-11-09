@@ -17,7 +17,7 @@
  */
 class MMind_YandexMetrika_Helper_Data extends Mage_Core_Helper_Abstract
 {
-    CONST XML_PATH_YANDEX_METRIKA_CODE = 'mmind_yandexmetrika/general/yandex_code';
+    CONST XML_PATH_YANDEX_METRIKA_CODE = 'mmyandexmetrika/general/yandex_code';
 
     /**
      * Get Yandex Metrika Script Code

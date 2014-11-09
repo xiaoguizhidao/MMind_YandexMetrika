@@ -7,22 +7,22 @@
     </modules>
     <global>
         <blocks>
-            <mmind_yandexmetrika>
+            <mmyandexmetrika>
                 <class>MMind_YandexMetrika_Block</class>
-            </mmind_yandexmetrika>
+            </mmyandexmetrika>
         </blocks>
         <helpers>
-            <mmind_yandexmetrika>
+            <mmyandexmetrika>
                 <class>MMind_YandexMetrika_Helper</class>
-            </mmind_yandexmetrika>
+            </mmyandexmetrika>
         </helpers>
     </global>
     <frontend>
         <layout>
             <updates>
-                <mmind_yandexmetrika>
-                    <file>mmind_yandexmetrika.xml</file>
-                </mmind_yandexmetrika>
+                <mmyandexmetrika>
+                    <file>mmyandexmetrika.xml</file>
+                </mmyandexmetrika>
             </updates>
         </layout>
     </frontend>
@@ -38,9 +38,9 @@
                             <children>
                                 <config>
                                     <children>
-                                        <mmind_yandexmetrika>
+                                        <mmyandexmetrika>
                                             <title>MageMind YandexMetrika Integration</title>
-                                        </mmind_yandexmetrika>
+                                        </mmyandexmetrika>
                                     </children>
                                 </config>
                             </children>
@@ -51,11 +51,11 @@
         </acl>
         <translate>
             <modules>
-                <mmind_yandexmetrika>
+                <mmyandexmetrika>
                     <files>
                         <default>MMind_YandexMetrika.csv</default>
                     </files>
-                </mmind_yandexmetrika>
+                </mmyandexmetrika>
             </modules>
         </translate>
     </adminhtml>

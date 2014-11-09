@@ -23,7 +23,7 @@ class MMind_YandexMetrika_Block_Tracker extends Mage_Core_Block_Template
      */
     public function getYandexMetrikaCode()
     {
-        $helper = Mage::helper('mmind_yandexmetrika');
+        $helper = Mage::helper('mmyandexmetrika');
         return $helper->getYandexMetrikaCode();
     }
 

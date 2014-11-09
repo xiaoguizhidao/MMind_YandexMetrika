@@ -7,7 +7,7 @@
         </mmind>
     </tabs>
     <sections>
-        <mmind_yandexmetrika translate="label" module="mmind_yandexmetrika">
+        <mmyandexmetrika translate="label" module="mmyandexmetrika">
             <label>Yandex Metrika Integration</label>
             <tab>mmind</tab>
             <frontend_type>text</frontend_type>
@@ -64,6 +64,6 @@
                     </fields>
                 </goals>
             </groups>
-        </mmind_yandexmetrika>
+        </mmyandexmetrika>
     </sections>
 </config>

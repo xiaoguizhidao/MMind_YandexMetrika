@@ -1,5 +1,5 @@
 app/code/community/MMind/YandexMetrika  app/code/community/MMind/YandexMetrika
-app/design/frontend/base/default/layout/mmind_yandexmetrika.xml app/design/frontend/base/default/layout/mmind_yandexmetrika.xml
+app/design/frontend/base/default/layout/mmyandexmetrika.xml app/design/frontend/base/default/layout/mmyandexmetrika.xml
 app/design/frontend/base/default/template/mmind/yandexmetrika   app/design/frontend/base/default/template/mmind/yandexmetrika
 app/etc/modules/MMind_YandexMetrika.xml app/etc/modules/MMind_YandexMetrika.xml
 app/locale/en_US/MMind_YandexMetrika.csv    app/locale/en_US/MMind_YandexMetrika.csv
