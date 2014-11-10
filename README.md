@@ -9,6 +9,10 @@ Yandex Metrika tracking code Module for Magento
 # Contributors
 - Giuseppe Morelli
 
+# Stable version
+
+1.0.0
+
 # MAGENTO Installation
 
 ### via [modman](https://github.com/colinmollenhour/modman):
@@ -23,7 +27,7 @@ Add to your composer.json file this:
     ...
     "require": {
         "magento-hackathon/magento-composer-installer": "*",
-        "mmind/yandexmetrika": "dev-master"
+        "mmind/yandexmetrika": "1.0.0"
     },
     ....
     "repositories": [
